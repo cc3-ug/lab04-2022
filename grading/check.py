@@ -2,7 +2,7 @@ import utils
 import subprocess
 from random import randint
 
-jupiterRoute = '/home/student/image/bin/jupiter'
+jupiterRoute = 'jupiter'
 
 # checks hanoi.s
 def check_hanoi():
